@@ -1,5 +1,3 @@
-```python
-from scipy.spatial.distance import pdist, squareform
 from scipy.linalg import eigh
 from sklearn.metrics.pairwise import euclidean_distances
 import numpy as np
